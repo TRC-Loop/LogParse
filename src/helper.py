@@ -12,8 +12,6 @@ import pprint
 
 console = console.Console()
 
-LOG_DIR_PATH = "/Users/kockeike/MyFiles/Shared/mc_logs/"
-
 def setLogDirPath(path):
     LOG_DIR_PATH = path
 
